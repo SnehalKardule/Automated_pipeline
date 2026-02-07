@@ -95,8 +95,8 @@ This pipeline addresses these challenges by:
 
 ### 1️. Clone the Repository
 ```bash
-git clone <your-github-repo-url>
-cd nf_pipeline
+git clone https://github.com/SnehalKardule/Automated_pipeline.git
+cd nf-pipeline
 ```
 ### 2️.  Create and Activate the Conda Environment
 ```bash
